@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Education App</string>
+    <string name="home">Home</string>
+    <string name="course">Course</string>
+    <string name="test">Test</string>
+    <string name="chat">Chat</string>
+    <string name="profile">Profile</string>
+    <string name="select">Select item</string>
+    <string name="Course">Dropdown</string>
+</resources>
